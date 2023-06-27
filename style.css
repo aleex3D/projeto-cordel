@@ -8,8 +8,7 @@
     --font2:'Passion One', cursive;
     --font3: 'Sriracha', cursive;
 }
-/* Criei uma regra pra resetar */
-* {
+* {/* Criei uma regra pra resetar */
     margin: 0px;
     padding: 0px;
 }
